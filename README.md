@@ -1,4 +1,4 @@
-# Resized-Image-Enhancer
+# Low Resolution Image Enhancer
 A neural network that can enhance image quality after resized using interpolation.
 
 ## Result
